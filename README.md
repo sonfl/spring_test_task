@@ -1,2 +1,2 @@
-# Implemeted such things: 
-REST API, HTTP Basic Authentication, Unit testing.
+# Spring + Hibernate
+REST, HTTP Basic Authentication, Unit testing.
